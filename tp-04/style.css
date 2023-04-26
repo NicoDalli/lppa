@@ -1,0 +1,57 @@
+body {
+    font-family: Roboto,sans-serif;
+    margin: 10px 0px 0px 15px;
+}
+
+#enlace-de-tendencias {
+    color: #000;
+    text-decoration: none;
+}
+
+header {
+    border-bottom: 1px solid grey;
+    margin-bottom: 15px;
+    width: 90%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+main {
+    width: 65%;
+}
+
+#fecha-de-noticia {
+    font-weight: 100;
+    margin: 25px 0px 25px 0px;
+}
+
+figcaption {
+    font-weight: 100;
+    line-height: 1.6em;
+    margin: 10px 0px 0px 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+p, li, ol {
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 1.7em;
+}
+
+#notas-recomendadas {
+    list-style: none;
+    padding: 0px 0px 0px 0px;
+}
